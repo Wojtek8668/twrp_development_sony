@@ -1,0 +1,2 @@
+add_lunch_combo omni_mint-userdebug
+add_lunch_combo omni_mint-eng
