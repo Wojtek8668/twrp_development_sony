@@ -1,0 +1,2 @@
+add_lunch_combo omni_tsubasa-userdebug
+add_lunch_combo omni_tsubasa-eng
