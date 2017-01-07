@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Project: 'https://github.com/AdrianDC/twrp_development_sony' -->
+<!-- Manifest: 'https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/commits/twrp-7.1' -->
+<!-- Repo Init: 'repoinittwrp 7.1' -->
+<!-- Untracked: '' -->
+<manifest>
+
+  <project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-8.0" />
+
+  <project name="TeamWin/android_device_sony_huashan" path="device/sony/huashan" remote="github" revision="android-6.0" />
+
+  <project name="TeamWin/android_device_sony_hayabusa" path="device/sony/hayabusa" remote="github" revision="android-6.0" />
+  <project name="TeamWin/android_device_sony_mint" path="device/sony/mint" remote="github" revision="android-6.0" />
+  <project name="TeamWin/android_device_sony_tsubasa" path="device/sony/tsubasa" remote="github" revision="android-6.0" />
+
+  <project name="AdrianDC/twrp_development_sony" path="device/sony/dora" remote="github" revision="device_sony_dora" />
+  <project name="AdrianDC/twrp_development_sony" path="device/sony/kagura" remote="github" revision="device_sony_kagura" />
+
+  <!--
+  <project name="AdrianDC/twrp_development_sony" path="device/sony/kugo" remote="github" revision="device_sony_kugo" />
+  <project name="AdrianDC/twrp_development_sony" path="device/sony/satsuki" remote="github" revision="device_sony_satsuki" />
+  <project name="AdrianDC/twrp_development_sony" path="device/sony/suzu" remote="github" revision="device_sony_suzu" />
+  -->
+
+  <!--
+  <project name="TeamVee-SS/twrp_device_sony_shuang" path="device/sony/shuang" remote="github" revision="android-7.1" />
+  -->
+
+</manifest>
